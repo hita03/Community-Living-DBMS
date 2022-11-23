@@ -2,9 +2,9 @@
   Database management system for an application that ensures the safety and convenience of gated societies. It offers features to create a wholesome community living experience and improve security standards around gated communities.
 
 Frontend implemented with `streamlit` and `mysql` server.<br/>
-🐍 [Frontend python code](treamlit-and-mysql-ui)<br/>
-📀 [DDL statements with constraints and queries](ddl/)<br/>
-🏛️ [Schema info](schema/)<br/>
+🐍 [Frontend python code](/streamlit-and-mysql-ui)<br/>
+📀 [DDL statements with constraints and queries](/ddl)<br/>
+🏛️ [Schema info](/schema)<br/>
 
 
 
