@@ -8,7 +8,7 @@ inquirer==2.10.0
 jinxed==1.2.0
 mysql-connector-python==8.0.31
 prettytable==3.5.0
-protobuf==3.20.1
+protobuf==3.20.2
 pycodestyle==2.8.0
 pyfiglet==0.8.post1
 python-dotenv==0.21.0
