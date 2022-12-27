@@ -1,7 +1,7 @@
 ansicon==1.89.0
 autopep8==1.6.0
 blessed==1.19.1
-certifi==2022.9.24
+certifi==2022.12.7
 charset-normalizer==2.0.12
 idna==3.4
 inquirer==2.10.0
